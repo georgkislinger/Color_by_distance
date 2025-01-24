@@ -1,6 +1,7 @@
 # README: Colormap Application and Distance Mapping Scripts
 
 DISCLAIMER: This README is AI-generated and may contain errors.
+
 This repository contains two Python scripts designed for electron microscopy (EM) data processing. These scripts focus on applying colormaps to EM data and generating distance-based visualizations for enhanced analysis. Below is a comprehensive guide to setting up the environment and using these scripts effectively.
 
 ---
